@@ -1,0 +1,304 @@
+.buss-structure {
+    position: relative;
+}
+
+.legend {
+   position: absolute;
+   display: flex;
+   margin-right: 10px ;
+}
+
+.vacent-seat-1{
+    position: absolute;
+    top: 140.5px;
+    left: 100px;
+}
+
+.vacent-seat-2{
+    position: absolute;
+    top: 140.5px;
+    left: 154px;
+}
+
+.vacent-seat-5{
+    position: absolute;
+    top: 207px;
+    left: 100px;
+}
+
+.vacent-seat-6{
+    position: absolute;
+    top: 207px;
+    left: 154px;
+}
+
+.vacent-seat-9{
+    position: absolute;
+    top: 273.5px;
+    left: 100px;
+}
+
+.vacent-seat-10{
+    position: absolute;
+    top: 273.5px;
+    left: 154px;
+}
+
+.vacent-seat-13{
+    position: absolute;
+    top: 340px;
+    left: 100px;
+}
+
+.vacent-seat-14{
+    position: absolute;
+    top: 340px;
+    left: 154px;
+}
+
+.vacent-seat-17{
+    position: absolute;
+    top: 406.5px;
+    left: 100px;
+}
+
+.vacent-seat-18{
+    position: absolute;
+    top: 406.5px;
+    left: 154px;
+}
+
+.vacent-seat-21{
+    position: absolute;
+    top: 472.5px;
+    left: 100px;
+}
+
+.vacent-seat-22{
+    position: absolute;
+    top: 472.5px;
+    left: 154px;
+}
+
+.vacent-seat-25{
+    position: absolute;
+    top: 539px;
+    left: 100px;
+}
+
+.vacent-seat-26{
+    position: absolute;
+    top: 539px;
+    left: 154px;
+}
+
+.vacent-seat-29{
+    position: absolute;
+    top: 605.5px;
+    left: 100px;
+}
+
+.vacent-seat-30{
+    position: absolute;
+    top: 605.5px;
+    left: 154px;
+}
+
+.vacent-seat-33{
+    position: absolute;
+    top: 672px;
+    left: 100px;
+}
+
+.vacent-seat-34{
+    position: absolute;
+    top: 672px;
+    left: 154px;
+}
+
+.vacent-seat-37{
+    position: absolute;
+    top: 738.5px;
+    left: 100px;
+}
+
+.vacent-seat-38{
+    position: absolute;
+    top: 738.5px;
+    left: 154px;
+}
+
+.vacent-seat-41{
+    position: absolute;
+    top: 805px;
+    left: 100px;
+}
+
+.vacent-seat-42{
+    position: absolute;
+    top: 805px;
+    left: 154px;
+}
+.vacent-seat-3{
+    position: absolute;
+    top: 150px;
+    left: 246px;
+}
+
+.vacent-seat-4{
+    position: absolute;
+    top: 150px;
+    left: 300px;
+}
+
+.vacent-seat-7{
+    position: absolute;
+    top: 215px;
+    left: 246px;
+}
+
+.vacent-seat-8{
+    position: absolute;
+    top: 215px;
+    left: 300px;
+}
+
+.vacent-seat-11{
+    position: absolute;
+    top: 280px;
+    left: 246px;
+}
+
+.vacent-seat-12{
+    position: absolute;
+    top: 280px;
+    left: 300px;
+}
+
+.vacent-seat-15{
+    position: absolute;
+    top: 345px;
+    left: 246px;
+}
+
+.vacent-seat-16{
+    position: absolute;
+    top: 345px;
+    left: 300px;
+}
+
+.vacent-seat-19{
+    position: absolute;
+    top: 410px;
+    left: 246px;
+}
+
+.vacent-seat-20{
+    position: absolute;
+    top: 410px;
+    left: 300px;
+}
+
+.vacent-seat-23{
+    position: absolute;
+    top: 475px;
+    left: 246px;
+}
+
+.vacent-seat-24{
+    position: absolute;
+    top: 475px;
+    left: 300px;
+}
+
+.vacent-seat-27{
+    position: absolute;
+    top: 540px;
+    left: 246px;
+}
+
+.vacent-seat-28{
+    position: absolute;
+    top: 540px;
+    left: 300px;
+}
+
+.vacent-seat-31{
+    position: absolute;
+    top: 605px;
+    left: 246px;
+}
+
+.vacent-seat-32{
+    position: absolute;
+    top: 605px;
+    left: 300px;
+}
+
+.vacent-seat-35{
+    position: absolute;
+    top: 675px;
+    left: 246px;
+}
+
+.vacent-seat-36{
+    position: absolute;
+    top: 675px;
+    left: 300px;
+}
+
+.vacent-seat-39{
+    position: absolute;
+    top: 740px;
+    left: 246px;
+}
+
+.vacent-seat-40{
+    position: absolute;
+    top: 740px;
+    left: 300px;
+}
+
+.vacent-seat-43{
+    position: absolute;
+    top: 805px;
+    left: 246px;
+}
+
+.vacent-seat-44{
+    position: absolute;
+    top: 805px;
+    left: 300px;
+}
+
+.vacent-seat-45{
+    position: absolute;
+    top: 880px;
+    left: 306px;
+}
+
+.vacent-seat-46{
+    position: absolute;
+    top: 880px;
+    left: 255.6px;
+}
+
+.vacent-seat-47{
+    position: absolute;
+    top: 880px;
+    left: 203.4px;
+}
+
+.vacent-seat-48{
+    position: absolute;
+    top: 880px;
+    left: 151px;
+}
+
+.vacent-seat-49{
+    position: absolute;
+    top: 880px;
+    left: 99px;
+}
+
+
