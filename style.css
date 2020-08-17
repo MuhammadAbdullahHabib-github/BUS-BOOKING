@@ -2,6 +2,13 @@
     position: relative;
 }
 
+.container {
+    
+    width: 75%;
+    height: 180vh;
+    
+}
+
 .legend {
    position: absolute;
    display: flex;
